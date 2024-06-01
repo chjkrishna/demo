@@ -3,3 +3,5 @@ Hello
 My first line updated
 
 My second line is added
+
+New line added along with file2
