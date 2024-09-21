@@ -1,2 +1,4 @@
 MyFirst File
 Secondline in file1.txt
+
+New line added
